@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://artsin.github.io/sitemap_style.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://artsin.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://artsin.github.io/archive/</loc>
+    </url>
+    <url>
+        <loc>https://artsin.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://artsin.github.io/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://artsin.github.io/blog/safelang/</loc>
+        <lastmod>2024-12-22</lastmod>
+    </url>
+    <url>
+        <loc>https://artsin.github.io/projects/</loc>
+    </url>
+    <url>
+        <loc>https://artsin.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://artsin.github.io/tags/c/</loc>
+    </url>
+    <url>
+        <loc>https://artsin.github.io/tags/clang/</loc>
+    </url>
+    <url>
+        <loc>https://artsin.github.io/tags/compiler/</loc>
+    </url>
+    <url>
+        <loc>https://artsin.github.io/tags/llvm/</loc>
+    </url>
+    <url>
+        <loc>https://artsin.github.io/tags/undefined-behavior/</loc>
+    </url>
+    <url>
+        <loc>https://artsin.github.io/tags/vulnerability/</loc>
+    </url>
+</urlset>
